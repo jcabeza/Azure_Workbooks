@@ -15,3 +15,8 @@ https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-data-s
 ## Templates
 
 https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-templates?source=recommendations
+
+## Workbooks
+
+*link to queries*
+[Workbooks](workbooks)
